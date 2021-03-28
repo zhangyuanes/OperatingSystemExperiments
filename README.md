@@ -8,7 +8,7 @@
 
 # 实验一 Linux常用命令的使用
 
-[实验手册word版](ex1/Lab1 Linux常用命令的使用.doc)
+[实验手册word版](ex1/Lab1Linux常用命令的使用.doc)
 
 [实验手册在线地址](https://www.zybuluo.com/yanbo01haomiao/note/1785787)
 
