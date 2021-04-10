@@ -72,6 +72,12 @@ PC Ubuntu16.04或Ubuntu18.04（推荐）操作系统——原生或虚拟机； 
 
 实验内容更新至ex2。
 
+[实验手册word版](ex2/Lab2进程创建及进程间通信.doc)
+
+[实验手册在线地址](https://www.zybuluo.com/yanbo01haomiao/note/1787514)
+
+[实验报告模板](ex2/操作系统第二次实验报告模板.doc)
+
 # 实验三
 
 实验时间：2021.04.18 第7周周日 5-8节 
@@ -88,6 +94,7 @@ PC Ubuntu16.04或Ubuntu18.04（推荐）操作系统——原生或虚拟机； 
 
 # 本仓库更新记录
 
+- 2021.04.11 zhangyuanes 更新ex2在线实验手册
 - 2021.04.05 zhangyuanes 更新ex2 和 readme
 - 2021.03.30 zhangyuanes 更新仓库二维码
 - 2021.03.30 zhangyuanes 更新其他实验时间与注意事项
