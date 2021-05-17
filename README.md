@@ -100,10 +100,21 @@ PC Ubuntu16.04或Ubuntu18.04（推荐）操作系统——原生或虚拟机； 
 
 实验地点： B7 231,233,331
 
+[实验手册word版](ex4/Lab4存储管理.doc)
+
+[实验手册在线地址](https://www.zybuluo.com/yanbo01haomiao/note/1794341)
+
+[实验报告模板](ex4/操作系统第四次实验报告模板.doc)
+
+[参考代码C语言版本](ex4/page-management.c)
+
+[参考代码C++版本](ex4/page-management.cpp)
+
 ---
 
 # 本仓库更新记录
 
+- 2021.05.17 zhangyuanes 更新ex4 和 readme
 - 2021.04.26 zhangyuanes 更新issue 和确认第三次实验提交时间为4月30日
 - 2021.04.12 zhangyuanes 更新ex3 和 readme
 - 2021.04.11 zhangyuanes 更新ex2在线实验手册
