@@ -149,6 +149,7 @@ The data input is:
 
 # 本仓库更新记录
 
+- 2021.05.23 zhangyuanes 更新ex4 seed参考，更新注意事项
 - 2021.05.17 zhangyuanes 更新ex4 和 readme
 - 2021.04.26 zhangyuanes 更新issue 和确认第三次实验提交时间为4月30日
 - 2021.04.12 zhangyuanes 更新ex3 和 readme
