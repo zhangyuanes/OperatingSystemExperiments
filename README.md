@@ -110,7 +110,9 @@ PC Ubuntu16.04或Ubuntu18.04（推荐）操作系统——原生或虚拟机； 
 
 [参考代码C++版本](ex4/page-management.cpp)
 
-关于随机种子在Linux和windows下不同的问题，建议采用Linux下的环境进行测试，下面给出`seed = 333`时的页地址流，用于判断是否由于输入不同而导致命中率差异。
+关于随机种子在Linux和windows下不同的问题，采用Linux下的环境进行测试，下面给出`seed = 333`时的页地址流，用于判断是否由于输入不同而导致命中率差异。
+
+最终实验评分按照Linux下的seed页地址流。
 
 ```
 Windows 10: seed  = 333
@@ -120,7 +122,14 @@ The data input is:
 
 ```
 ubuntu 18.04: seed  = 333
+The data input is: 
+1 4 0 3 1 4 4 3 2 0 4 3 4 1 0 3 2 3 0 4 3 1 0 0 1 1 2 1 4 3 
+```
 
+```
+Mac OS: seed = 333
+The data input is: 
+1 1 2 0 1 2 2 2 2 0 1 1 4 4 2 2 0 3 1 2 1 1 0 3 3 4 2 0 2 4
 ```
 
 ---
